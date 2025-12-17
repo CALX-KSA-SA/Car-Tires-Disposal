@@ -81,6 +81,7 @@ body {
     list-style: none;
     gap: 1.5rem;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 @media (max-width: 1024px) {
